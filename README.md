@@ -1,5 +1,7 @@
 # robot_motion_planing
 代码对应文章 [可参考知乎博客Motion Planning系列](https://zhuanlan.zhihu.com/p/672855397)
+![image](https://github.com/liangwq/robot_motion_planing/assets/9170648/864cfb2d-c159-4e1b-a017-329168630fee)
+
 
 ![image](https://github.com/liangwq/robot_motion_planing/assets/9170648/f9fe67c2-a3e4-47e7-b466-957886a07458)
 
