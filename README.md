@@ -13,6 +13,8 @@
 
 ![image](https://github.com/liangwq/robot_motion_planing/assets/9170648/ba7c1edc-a77f-4249-99d5-bd2339a9078f)
 
+# 角色动画
+代码character animate部分代码对应文章[可参考知乎博客AIGC视频生成系列](https://zhuanlan.zhihu.com/p/679324415)
 
 
 
